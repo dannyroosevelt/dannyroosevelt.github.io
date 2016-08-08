@@ -1,7 +1,16 @@
 body {
-  padding-top: 50px;
+	padding-top: 50px;
 }
 .starter-template {
-  padding: 40px 15px;
-  text-align: left;
+	padding: 40px 15px;
+	text-align: left;
+}
+/* .title-name {
+	padding: 40px 15px;
+	text-align: left;
+	position: fixed;
+} */
+.contact-info {
+	padding: 40px 15px;
+	text-align: left;
 }
