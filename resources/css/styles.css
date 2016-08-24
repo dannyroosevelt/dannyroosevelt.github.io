@@ -110,6 +110,21 @@ a.text-danger {
     z-index: -1
 }
 
+.scroll-down-2 {
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    border: 2px solid #000000;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-left: -15px;
+    display: block;
+    padding: 7px;
+    text-align: center;
+    z-index: -1
+}
+
 .scroll-up {
     position: fixed;
     display: none;
@@ -177,16 +192,16 @@ section {
 #section3 {
   background-color: rgba(0,0,0,0.9);
 }
-*/
+
 
 #section4 {
     /*  background-color: #f6f6f6;
-  color:#444;*/
+  color:#444;
     padding-bottom: 600px;
 }
 
 
-/*
+
 #section5 {
   background-color: #fff;
 }
@@ -230,22 +245,18 @@ footer .nav>li>a:hover {
 }
 
 #work-logo-brightroll {
-    position: absolute;
-    right: 45px;
-    top: 6%;
-    /*padding: 5px;*/
+    margin-top: 25px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    width: 120px;
 }
-#work-logo-apple {
-    position: absolute;
-    right: 55px;
-    top: 4%;
-    /*padding: 5px;*/
-}
-#work-logo-ucsb {
-    position: absolute;
-    right: 55px;
-    top: 6%;
-    /*padding: 5px;*/
+
+#work-logo {
+    margin-top: 10px;
+    margin-right: 20px;
+    padding: 5px;
+    width: 65px;
 }
 
 #panel-heading {
