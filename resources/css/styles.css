@@ -281,3 +281,6 @@ footer .nav>li>a:hover {
     float: left;
     margin-right: 10px;
 }
+.links {
+    font-weight: bold;
+}
