@@ -245,7 +245,7 @@ footer .nav>li>a:hover {
 }
 
 #work-logo-brightroll {
-    margin-top: 25px;
+    margin-top: 28px;
     padding-top: 7px;
     padding-bottom: 7px;
     padding-left: 7px;
@@ -253,10 +253,10 @@ footer .nav>li>a:hover {
 }
 
 #work-logo {
-    margin-top: 10px;
+    margin-top: 15px;
     margin-right: 20px;
-    padding: 5px;
-    width: 65px;
+    padding: 2px;
+    width: 55px;
 }
 
 #panel-heading {
@@ -265,4 +265,19 @@ footer .nav>li>a:hover {
     text-decoration: none;
     text-decoration-color: #FFD700;
     vertical-align: middle;
+}
+
+.section-header {
+    font-style: italic;
+}
+
+.profile-pic {
+    width: 230px;
+    height: 100%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #000000;
+    display: inline;
+    float: left;
+    margin-right: 10px;
 }
