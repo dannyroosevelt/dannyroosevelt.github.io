@@ -268,7 +268,7 @@ footer .nav>li>a:hover {
 }
 
 .section-header {
-    font-style: italic;
+    /*font-style: italic;*/
 }
 
 .profile-pic {
@@ -281,6 +281,15 @@ footer .nav>li>a:hover {
     float: left;
     margin-right: 10px;
 }
+
 .links {
     font-weight: bold;
+}
+
+.contact-logo {
+    /*padding: 10px;*/
+    
+}
+.contact-info {
+    margin-left: 1px;
 }
