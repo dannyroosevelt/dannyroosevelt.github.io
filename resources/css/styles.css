@@ -284,12 +284,9 @@ footer .nav>li>a:hover {
 
 .links {
     font-weight: bold;
-}
+}   
 
-.contact-logo {
-    /*padding: 10px;*/
-    
-}
 .contact-info {
-    margin-left: 1px;
+    /*height: 50px;*/
+    /*width: 100%;*/
 }
