@@ -110,11 +110,26 @@ a.text-danger {
     z-index: -1
 }
 
-.scroll-down-2 {
+.scroll-down-dark {
+    position: absolute;
+    left: 50%;
+    bottom: 70px;
+    border: 2px solid #A9A9A9;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-left: -15px;
+    display: block;
+    padding: 7px;
+    text-align: center;
+    z-index: -1
+}
+
+.scroll-down-dark-sec-4 {
     position: absolute;
     left: 50%;
     bottom: 10px;
-    border: 2px solid #000000;
+    border: 2px solid #A9A9A9;
     border-radius: 50%;
     height: 50px;
     width: 50px;
@@ -284,7 +299,7 @@ footer .nav>li>a:hover {
 
 .links {
     font-weight: bold;
-}   
+}
 
 .contact-info {
     /*width: 150%;*/
