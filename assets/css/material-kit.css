@@ -1390,7 +1390,9 @@ output {
 .label.label-danger {
   background-color: #f44336;
 }
-
+.text-smushed {
+  line-height: 130%;
+}
 .form-control,
 .form-group .form-control {
   border: 0;
@@ -3759,4 +3761,5 @@ h2.title {
     margin-left: 10px;
     margin-right: 10px;
   }
+
 /*# sourceMappingURL=material-kit.css.map */
